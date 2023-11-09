@@ -1,0 +1,30 @@
+.wp-block[data-type="fynx-blocks/latest-cpt-post"] {
+	border: 1px solid #000;
+	padding: 20px;
+}
+
+.wp-block-fynx-blocks-latest-cpt-posts {
+
+	.latest-item {
+		margin: 0 5px;
+		width: 30%;
+		display: inline-block;
+	}
+
+	.latest-image {
+		width: auto;
+	}
+
+	.latest-content {
+		width: 62.5%;
+		padding: 10px;
+	}
+
+	.title {
+		color: #000;
+	}
+
+	.excerpt {
+		line-height: 1.5;
+	}
+}
